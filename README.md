@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @lewisMurch
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python/ C/ MatLabs
-- 💞️ I’m looking to collaborate on a STYLE GAN related project
-- 📫 How to reach me lewismurch2@gmail.com
-
-<!---
-lewisMurch/lewisMurch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an aspiring AI software developer with a passion for using technology to solve complex problems. I am currently building my skills and knowledge in the field by experimenting with a variety of projects and learning new techniques. I am excited to continue growing and expanding my abilities as a developer. Follow my GitHub profile to check out my projects and see my progress!
