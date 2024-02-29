@@ -1,1 +1,1 @@
-I am an aspiring AI software developer with a passion for using technology to solve complex problems. I am currently building my skills and knowledge in the field by experimenting with a variety of projects and learning new techniques. I am excited to continue growing and expanding my abilities as a developer. Follow my GitHub profile to check out my projects and see my progress!
+
